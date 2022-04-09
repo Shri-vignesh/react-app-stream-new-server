@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "sadfa",
+      "description": "asdfas",
+      "id": 1
+    },
+    {
+      "title": "sadfa",
+      "description": "asdfas",
+      "id": 2
+    },
+    {
+      "title": "Dhoni",
+      "description": "Dhoni helicopter shot",
+      "id": 3
+    },
+    {
+      "title": "I created this stream",
+      "description": "This stream was created by me",
+      "userId": "102252168766779914565",
+      "id": 4
+    },
+    {
+      "title": "Streaming component reuse",
+      "description": "Stream on ow to refactor the code efficiently",
+      "userId": "102252168766779914565",
+      "id": 6
+    },
+    {
+      "title": "New title edited",
+      "description": "A brand new description added",
+      "id": 7
+    }
+  ]
+}
